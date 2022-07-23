@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Hilbert Curve With Graphics\Hilbert Curve With Graphics\Source.cpp(51,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Hilbert Curve With Graphics\Hilbert Curve With Graphics\Source.cpp(60,13): warning C4101: 'yl': unreferenced local variable
+D:\Hilbert Curve With Graphics\Hilbert Curve With Graphics\Source.cpp(60,9): warning C4101: 'xl': unreferenced local variable
+  Hilbert Curve With Graphics.vcxproj -> D:\Hilbert Curve With Graphics\Debug\Hilbert Curve With Graphics.exe
